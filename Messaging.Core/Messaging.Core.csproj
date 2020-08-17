@@ -4,6 +4,10 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
         <AssemblyName>Pesto.Messaging.Core</AssemblyName>
         <RootNamespace>Pesto.Messaging.Core</RootNamespace>
+        <Description>Pesto Messaging Core. Base library for implementing messaging infrastructure between .net core services.</Description>
+        <Title>Pesto - Messaging Core</Title>
+        <RepositoryUrl>https://github.com/shakenbytes/Pesto</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
     </PropertyGroup>
 
 </Project>
